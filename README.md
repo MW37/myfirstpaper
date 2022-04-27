@@ -1,7 +1,7 @@
 
 
 # myfirstpaper
-A paper on software carpentry
+A paper on software carpentry and other very important stuff!!
 
 ## Abstract
 
